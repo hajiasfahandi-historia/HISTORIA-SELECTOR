@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "H I S T O R I A gallery selectools ",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyBmvYO5Dx-C_luNSkxJN23W3PzJFSd5FzM",
     whatsappAdmin: "6225172446563" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
