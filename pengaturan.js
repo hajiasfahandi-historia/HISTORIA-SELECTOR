@@ -5,9 +5,9 @@
 
 const CONFIG_APP = {
     // 1. Nama Studio Foto Anda (Akan tampil di header dan portal klien)
-    namaVendor: "H I S T O R I A gallery selectools ",
+    namaVendor: "H I S T O R I A gallery",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
     googleApiKey: "AIzaSyBmvYO5Dx-C_luNSkxJN23W3PzJFSd5FzM",
-    whatsappAdmin: " +6285172446563 " // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
+    whatsappAdmin: "6285172446563" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
